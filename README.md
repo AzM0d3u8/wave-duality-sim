@@ -25,8 +25,5 @@ This simulation demonstrates the **double-slit experiment**, showing the dual na
    python main.py
    ```
 
-## Screenshot
-(Add a screenshot if needed)
-
 ---
 🧪 Based on the famous **double-slit experiment** that helped establish quantum mechanics.
